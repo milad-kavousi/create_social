@@ -1,0 +1,36 @@
+b3f3278 requirements updated
+38f3970 Thanks to Amir Ayat, a small error in detail.html was fixed
+75d0386 Full course released
+f60f6a9 L49 - ImageViews
+4d6fee0 L47 - Signals
+818aa67 L46 - Denormalization Example
+f65c56d L45 - DisplayActionB
+836a2cf L44 - DisplayActionA
+96961bc L43 - ActionAdded
+9915141 L42 - CreateAction Utils
+aaa816b L41 - GenericForeignKey
+e366f30 L40 - ContentTypes
+b12490c L39 - ActionsApp
+35a35d1 L38 - FollowB
+c932a8d L37 - FollowA
+b7a4d66 L36 - UserDetail
+93c465c L35 - UserList
+60f478e L34 - ContactModel
+8f7a33c README updated
+af38585 ReadMe added
+111fda3 L32 - AjaxPaginator2
+a1ad81e L31 - AjaxPaginator - P1
+f62d91e L30-31 Some data added
+af9b4e5 L30 - AjaxDecorator
+638d8fa L29 - AjaxJQuery
+2f6d30d L28 - AjaxCSRF
+834384e L26 - Like Images part 1
+20929dc L24 - Thumbnail
+2c774b6 L23 - ImageDetail
+d27e9d0 requirements added
+24b7c93 L22 - Code Bookmarklet
+01bbd84 L21 - Bookmarklet Part 1
+eb0509b L19 - Image View&URL
+5ac8d6e L18 - ImageCreateForm
+9159242 L17 - Image model
+61eee79 First commit - L15
