@@ -5,6 +5,7 @@ from urllib import request
 from django.core.files.base import ContentFile
 
 
+
 class ImageCreateForm(forms.ModelForm):
 
     class Meta:
